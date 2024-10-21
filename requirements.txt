@@ -12,6 +12,7 @@ gunicorn==23.0.0
 h11==0.14.0
 packaging==24.1
 Pillow==9.3.0
+psycopg2-binary==2.9.9
 PyJWT==2.9.0
 pytz==2024.2
 sqlparse==0.5.1
